@@ -43,7 +43,7 @@ for (let i = 0; i < numbers.length; i++) {
    console.log(num);
   }
 }
-console.log(num);
+
 
 //------------------------------
 //დავალება-5:
